@@ -1,4 +1,4 @@
-class Fruits {
+object Fruits {
 
   def fruits(list: List[Int]): List[String] = {
     list.map {
