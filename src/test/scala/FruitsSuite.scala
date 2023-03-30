@@ -8,9 +8,9 @@ class FruitsSuite extends AnyFlatSpec with Matchers  {
     assert(Fruits.fruits(List(1, 1)) == List("apple","apple"))
   }
 
-//  "three" should "return peach" in {
-//    assert(Fruits.fruits(List(3)) == List("peach"))
-//  }
+  "three" should "return peach" in {
+    assert(Fruits.fruits(List(3)) == List("peach"))
+  }
 
   "four" should "return orange" in {
     assert(Fruits.fruits(List(3)) == List("peach"))
