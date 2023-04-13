@@ -10,6 +10,7 @@ object Fruits {
       case 6 => "orange"
       case 7 => "grapes"
       case 8 => "grapes"
+      case 9 => "grapes"
       case _ => "unknown fruit"
     }
   }
