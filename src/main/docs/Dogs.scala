@@ -1,6 +1,6 @@
 class Dogs {
 
-  def printDogs() = {
+  def printDog() = {
     println("Dog")
     println("Dog")
     println("Dog")
