@@ -7,6 +7,7 @@ class Veges {
   def printCucumber2(): Unit = println("Cucumber")
 
   def printCucumber3(): Unit = println("Cucumber")
+  def nameCat(name: String): Unit = println("Hi, my name is " + name)
 
 
 }
