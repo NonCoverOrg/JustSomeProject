@@ -13,6 +13,12 @@ class JustSomething {
     println("HI there")
     println("HI there")
     println("HI there")
+    println("HI there")
+    println("HI there")
+    println("HI there")
+    println("HI there")
+    println("HI there")
+    println("HI there")
   }
 
 }
