@@ -7,6 +7,9 @@ class Veges {
     println("Cucumber")
     println("Cucumber")
     println("Cucumber")
+    println("Cucumber")
+    println("Cucumber")
+    println("Cucumber")
   }
 
 }
