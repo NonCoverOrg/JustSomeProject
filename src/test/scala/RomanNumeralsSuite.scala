@@ -4,7 +4,7 @@ import org.scalatest.matchers.must.Matchers
 import org.junit.Test
 
 class RomanNumeralsSuite extends AnyFlatSpec with Matchers {
-
+  @Test
   def testOneIsPositive {
     assertTrue(1 > 0)
   }
