@@ -1,7 +1,13 @@
+import org.junit.Assert.assertTrue
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.must.Matchers
+import org.junit.Test
 
 class RomanNumeralsSuite extends AnyFlatSpec with Matchers {
+
+  def testOneIsPositive {
+    assertTrue(1 > 0)
+  }
 
   "fromRoman" should "return correct number" in {
     val rom = new RomanNumerals
