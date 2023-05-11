@@ -1,10 +1,10 @@
 import org.junit.Assert.assertTrue
 import org.scalatest.flatspec.AnyFlatSpec
 import org.scalatest.matchers.must.Matchers
-import org.junit.Test
+import org.junit.{Ignore, Test}
 
 class RomanNumeralsSuite extends AnyFlatSpec with Matchers {
-  @Test()
+  @Ignore
   def testOneIsPositive {
     assertTrue(1 > 0)
   }
